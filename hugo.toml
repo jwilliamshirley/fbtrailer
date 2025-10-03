@@ -28,6 +28,7 @@ theme = 'hugo-universal-theme'
     name = "Facebook"
     url = "https://www.facebook.com/profile.php?id=61573847370055"
     pre = "<i class='fas fa-2x fa-facebook'></i>"
+    icon = 
 
 [[menu.main]]
     name       = "Menu"
