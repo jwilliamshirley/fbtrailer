@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:52372/</loc>
+    <loc>//localhost:54057/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/categories/application/</loc>
+    <loc>//localhost:54057/categories/application/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/categories/architecture/</loc>
+    <loc>//localhost:54057/categories/architecture/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/blog/</loc>
+    <loc>//localhost:54057/blog/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/categories/</loc>
+    <loc>//localhost:54057/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/categories/data/</loc>
+    <loc>//localhost:54057/categories/data/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/blog/post-1/</loc>
+    <loc>//localhost:54057/blog/post-1/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/blog/post-2/</loc>
+    <loc>//localhost:54057/blog/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/blog/post-3/</loc>
+    <loc>//localhost:54057/blog/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/blog/post-4/</loc>
+    <loc>//localhost:54057/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/tags/nextjs/</loc>
+    <loc>//localhost:54057/tags/nextjs/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/tags/silicon/</loc>
+    <loc>//localhost:54057/tags/silicon/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/categories/software/</loc>
+    <loc>//localhost:54057/categories/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/tags/software/</loc>
+    <loc>//localhost:54057/tags/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/tags/</loc>
+    <loc>//localhost:54057/tags/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/tags/tailwind/</loc>
+    <loc>//localhost:54057/tags/tailwind/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/categories/technology/</loc>
+    <loc>//localhost:54057/categories/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/tags/technology/</loc>
+    <loc>//localhost:54057/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:52372/authors/</loc>
+    <loc>//localhost:54057/authors/</loc>
   </url><url>
-    <loc>//localhost:52372/contact/</loc>
+    <loc>//localhost:54057/contact/</loc>
   </url><url>
-    <loc>//localhost:52372/elements/</loc>
+    <loc>//localhost:54057/elements/</loc>
   </url><url>
-    <loc>//localhost:52372/about/</loc>
+    <loc>//localhost:54057/about/</loc>
   </url><url>
-    <loc>//localhost:52372/authors/john-doe/</loc>
+    <loc>//localhost:54057/authors/john-doe/</loc>
   </url><url>
-    <loc>//localhost:52372/pages/</loc>
+    <loc>//localhost:54057/pages/</loc>
   </url><url>
-    <loc>//localhost:52372/privacy-policy/</loc>
+    <loc>//localhost:54057/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:52372/authors/sam-wilson/</loc>
+    <loc>//localhost:54057/authors/sam-wilson/</loc>
   </url><url>
-    <loc>//localhost:52372/sections/</loc>
+    <loc>//localhost:54057/sections/</loc>
   </url><url>
-    <loc>//localhost:52372/authors/william-jacob/</loc>
+    <loc>//localhost:54057/authors/william-jacob/</loc>
   </url>
 </urlset>
