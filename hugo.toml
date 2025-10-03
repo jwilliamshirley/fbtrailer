@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://rentfbtrailer.com"
+baseURL = "rentfbtrailer.com"
 # Title of your website (required).
 title = "Rent Trailer in Flowery Branch, GA | Dump Trailers, Utility Trailers, Car Haulers"
 # Your theme name
