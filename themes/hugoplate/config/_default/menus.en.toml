@@ -1,0 +1,58 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "FAQ"
+url = "/faq"
+weight = 3
+
+[[main]]
+name = "Contact Us"
+url = "/contact"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Main Menu"
+
+[[main]]
+parent = "Main Menu"
+name = "Blog"
+url = "/blog"
+
+[[main]]
+parent = "Main Menu"
+name = "Renter Login"
+url = "/docklyne"
+
+[[main]]
+parent = "Main Menu"
+name = "Documents"
+url = "/docs"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
